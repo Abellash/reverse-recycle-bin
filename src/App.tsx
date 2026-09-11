@@ -1,5 +1,3 @@
-"use client";
-
 import { useCallback, useEffect, useMemo, useRef, useState, type ReactNode } from "react";
 import { FilePlus2, FileSpreadsheet, FileText, Folder, Grid2X2, HardDrive, Minus, Recycle, RotateCcw, Save, Square, Trash2, X } from "lucide-react";
 import { generateGarbage, seedFiles, type VirtualFile } from "../lib/virtual-files";

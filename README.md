@@ -102,8 +102,8 @@ The virtual filesystem keeps track of files, documents, their contents, desktop 
 ### Installation
 
 ```bash
-git clone <YOUR-GITHUB-REPOSITORY-URL>
-cd R^2B
+git clone https://github.com/Abellash/reverse-recycle-bin.git
+cd reverse-recycle-bin
 npm install
 ```
 
@@ -118,6 +118,24 @@ Open the local URL displayed by Vite, normally:
 ```text
 http://localhost:5173
 ```
+
+### Production Build
+
+```bash
+npm run build
+```
+
+The deployable static site is written to `dist/`.
+
+### Vercel Settings
+
+* **Framework preset:** Vite
+* **Build command:** `npm run build`
+* **Output directory:** `dist`
+* **Install command:** `npm install`
+* **Node.js version:** 22.x
+
+The included `vercel.json` rewrites browser routes to `index.html` for SPA compatibility.
 
 ---
 
@@ -289,7 +307,7 @@ Thank you for making the planet considerably worse.
 
 ### Additional Demos
 
-GitHub Repository: [Add repository link]
+GitHub Repository: [Abellash/reverse-recycle-bin](https://github.com/Abellash/reverse-recycle-bin)
 
 ---
 

@@ -141,27 +141,6 @@ The included `vercel.json` rewrites browser routes to `index.html` for SPA compa
 
 ## Project Documentation
 
-### Screenshots
-
-#### Screenshot 1 — Everything Is Fine
-
-![Normal Desktop](Add screenshot here)
-
-*R²B begins as an innocent-looking desktop with normal files, folders and what appears to be a completely trustworthy Recycle Bin.*
-
-#### Screenshot 2 — Recycling Was a Mistake
-
-![Reverse Recycling](Add screenshot here)
-
-*Trying to recycle a file has the minor side effect of creating several files nobody requested.*
-
-#### Screenshot 3 — We Have Lost Control
-
-![RRB Chaos](Add screenshot here)
-
-*Repeated attempts to clean the desktop result in progressively more digital garbage and the eventual reveal of the Reverse Recycle Bin.*
-
----
 
 ## Diagrams
 

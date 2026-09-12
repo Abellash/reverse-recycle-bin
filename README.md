@@ -299,9 +299,11 @@ Thank you for making the planet considerably worse.
 
 ## Project Demo
 
+live deployed: https://rrb-pi.vercel.app/
+
 ### Video
 
-[Add your demo video link here]
+https://drive.google.com/file/d/1ZTr4cJHFrl6-ud994po2rzW4uHMn61lW/view?usp=sharing
 
 *The demo shows a perfectly normal desktop slowly being destroyed by the user's completely reasonable attempts to clean it.*
 
